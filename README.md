@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Projeto construído no evento Next Level Week da Rocketseat.
+Modificando projeto construído no evento Next Level Week da Rocketseat.
 
 🔗[Clique aqui para acessar](https://viniiirj.github.io/nlw-esports-explorer/)
 

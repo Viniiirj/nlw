@@ -13,7 +13,7 @@ body {
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
-    background-color: #121214;
+    background-color: #090d10;
 }
 
 body * {
@@ -29,7 +29,7 @@ header {
 header div {
     width: 120px;
     margin: auto;
-    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+    background-image: linear-gradient(90deg, #4000ff 0%, #a7a6fd 50.52%, #ffee00 100%);
     border-radius: 50%;
     display: flex;
     padding: 4px;
@@ -57,7 +57,7 @@ main {
 section {
     color: white;
   
-    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+    background-image: linear-gradient(90deg, #4000ff 0%, #a7a6fd 50.52%, #ffee00 100%);
     padding-top: 4px;
     border-radius: 10px;
 }
@@ -97,15 +97,15 @@ section ul li:hover {
     transform: scale(1.1);
 }
 
-.games-list img {
+.films-list img {
     width: 90px;
     border-radius: 8px;
 
 }
 
-.channel-list img {
-    border-radius: 50%;
-    width: 70px;
+.series-list img {
+    border-radius: 8px;
+    width: 90px;
 }
 
 /* animation */
